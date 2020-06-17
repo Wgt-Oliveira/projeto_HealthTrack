@@ -1,0 +1,231 @@
+html,
+body {
+background-color:#87CEEB;
+padding: 2rem; 
+width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+align-items: center;
+justify-content: center;
+display: flex;
+background-image: url("../img/6a9060251092204ba3701e7fe582ee6a.png");
+background-repeat: no-repeat;
+background-size: 618%;
+z-index: 999;
+}
+
+
+.titulo {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.logo {
+    align-items: center;
+    justify-content: center;
+
+}
+.logar-cadastrar {
+    align-items: center;
+    padding-bottom: 0.15rem;
+     
+}
+
+.logar-cadastrar img {
+    width: 23px;
+    height: 23px;
+    margin-top: 15px;
+}
+
+.form-data-group {
+    border: 1.2px solid #007BFF;
+    background-color:skyblue;
+    padding-bottom: 1rem;
+    background-image: url("../img/medica-sextavada-geometrica-abstrata_1017-15002.jpg");
+    background-repeat: no-repeat;
+    background-size: 600%;
+    
+}
+
+.group {
+    border: 1.2px solid #007BFF;
+    background-color:skyblue;
+    background-image: url("../img/medica-sextavada-geometrica-abstrata_1017-15002.jpg");
+    background-repeat: no-repeat;
+    background-size: 1000%;
+    padding: 0rem 0rem 2rem 0rem;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.frm {
+    width: 100vw;
+}
+
+
+.inputWithIcon input[type=password] {
+    padding-left: 37px;
+}
+.inputWithIcon input[type=email] {
+    padding-left: 37px;
+}
+
+.inputWithIcon {
+    position: relative;
+}
+
+.key {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 6px 7px 7px 7px;
+    margin-left: 18px;
+    margin-bottom: 2px;
+}
+
+.key img {
+    width: 20px;
+    height: 20px;
+
+}
+
+.email {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 6px 7px 7px 7px;
+    margin-left: 18px;
+    margin-bottom: 2px;
+}
+.email img {
+    width: 20px;
+    height: 20px;
+
+}
+
+h1 {
+    text-shadow: 1.5px 1.5px 1.5px #007BFF ;
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+}
+
+h2 {
+    text-shadow: 1.5px 1.5px 1.5px #007BFF ;
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+    font-size: 1rem;
+    padding: 0.3rem 0rem 0rem 0rem;
+}
+
+.btn {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.btnWithIcon {
+    position: relative;
+}
+
+.googleImg img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 1rem;
+    height: 1rem;
+}
+
+.facebookImg img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 3px;
+    margin-top: 10px;
+    width: 1rem;
+    height: 1rem;
+}
+
+.dadosTitulo {
+    background-color: #007BFF; 
+    height: 3.6rem; 
+}
+
+    
+.dadosTitulo h1 {
+    margin-left: 40px;
+    text-align: left;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+    padding: 1.5rem;  
+}
+
+.form-horizontal {
+    padding: 1rem 1rem 0rem 1rem;
+}
+
+.text-dados {
+    text-align: left;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+    text-shadow: 1.5px 1.5px 1.5px rgb(9, 80, 211) ;
+}
+
+
+.footer {
+    border:0.5px ridge #007BFF;
+    padding: 1rem;
+    background-color: rgb(135, 223, 235) ;
+}
+
+.hWithIcon {
+    position: relative;
+} 
+
+.voltar {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.voltar img {
+    width: 35px;
+    height: 35px;
+
+}
+
+
+.info {
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-top: 15px;
+
+    
+}
+
+.info img {
+    width: 35px;
+    height: 35px;
+
+}
+.formulario {
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;  
+}
+
+.formulario2 {
+    top: 0; 
+}
+
+
